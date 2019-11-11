@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/xxUsers/gtalarico/dev/repos/gtalarico/ironpython-stubs/release/stubs.min"
+    ],
+    "python.pythonPath": "/Users/gtalarico/dev/repos/gtalarico/_teaching/au2019-python/.venv/bin/python3",
+}
