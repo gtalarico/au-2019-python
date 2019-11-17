@@ -5,7 +5,8 @@ __pycache__/
 .mypy_cache/
 *.egg-info/
 *.egg
-
+venv
+.vscode
 # Unit test / coverage reports
 htmlcov/
 .tox/
